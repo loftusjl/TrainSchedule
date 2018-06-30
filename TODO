@@ -1,12 +1,12 @@
 
 Todo:
   When adding trains, administrators should be able to submit the following:
-    ☐ Train Name
-    ☐ Destination 
-    ☐ First Train Time -- in military time
-    ☐ Frequency -- in minutes
-    ☐ Code this app to calculate when the next train will arrive; this should be relative to the current time.
-    ☐ Users from many different machines must be able to view same train times.
+    ✔ Train Name @done(18-06-29 21:41)
+    ✔ Destination @done(18-06-29 21:41)
+    ✔ First Train Time -- in military time @done(18-06-29 21:41)
+    ✔ Frequency -- in minutes @done(18-06-29 21:41)
+    ✔ Code this app to calculate when the next train will arrive; this should be relative to the current time. @done(18-06-29 21:42)
+    ✔ Users from many different machines must be able to view same train times. @done(18-06-29 21:49)
   
     Bonus:
 ☐ Consider updating your "minutes to arrival" and "next train time" text once every minute. This is significantly more challenging; only attempt this if you've completed the actual activity and committed it somewhere on GitHub for safekeeping (and maybe create a second GitHub repo).
