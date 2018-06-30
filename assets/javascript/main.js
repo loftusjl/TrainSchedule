@@ -20,7 +20,6 @@
     makeTable(childSnapshot);
 
   });
-  console.log(database.ref().child())
   
   setInterval(function(childSnapshot) {
     $('#clock').text(moment().format('HH:mm:ss'));
