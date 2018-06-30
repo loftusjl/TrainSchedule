@@ -2,7 +2,7 @@
 font-family: 'Black Ops One', cursive; */
 .jumbotron {
     background-image: url('../images/banner.gif');
-    background-size:100%;
+    background-size:cover;
     font-family: 'Black Ops One', cursive;
 }
 .text-shadow {
